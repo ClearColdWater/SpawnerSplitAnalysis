@@ -2,7 +2,7 @@
 
 The code was absolutely not cleaned so if you are actually trying to read the code sorry and good luck
 
-Most of the work are in /v3 and not /v3copy with a few useful tools in the root folder
+Most of the work are in /v3 with a few useful tools in the root folder
 
 If and when I feel like it I will make it actually usable
 
